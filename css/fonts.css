@@ -1,0 +1,84 @@
+/* font Jost */
+@font-face {
+    font-family: "Jost-100";
+    src: url(/css/fonts/Jost/Jost-Thin.ttf);
+}
+@font-face {
+    font-family: "Jost-300";
+    src: url(/css/fonts/Jost/Jost-Light.ttf);
+}
+@font-face {
+    font-family: "Jost-Bold";
+    src: url(fonts/Jost/Jost-Bold.ttf);
+}
+@font-face {
+    font-family: "Jost-Black";
+    src: url(fonts/Jost/Jost-Black.ttf);
+}
+@font-face {
+    font-family: "Jost-BlackItalic";
+    src: url(fonts/Jost/Jost-BlackItalic.ttf);
+}
+@font-face {
+    font-family: "Jost-SemiBold";
+    src: url(fonts/Jost/Jost-SemiBold.ttf);
+}
+@font-face {
+    font-family: "Jost-Regular";
+    src: url(fonts/Jost/Jost-Regular.ttf);
+}
+
+/* font Cairo Play */
+@font-face {
+    font-family: "CairoPlay-Regular";
+    src: url(fonts/Cairo_Play/CairoPlay-Regular.ttf);
+}
+@font-face {
+    font-family: "CairoPlay-Variable";
+    src: url(fonts/Cairo_Play/CairoPlay-VariableFont_slnt\,wght.ttf);
+}
+@font-face {
+    font-family: "CairoPlay-Light";
+    src: url(fonts/Cairo_Play/CairoPlay-Light.ttf);
+}
+@font-face {
+    font-family: "CairoPlay-Black";
+    src: url(fonts/Cairo_Play/CairoPlay-Black.ttf);
+}
+@font-face {
+    font-family: "CairoPlay-Bold";
+    src: url(fonts/Cairo_Play/CairoPlay-Bold.ttf);
+}
+@font-face {
+    font-family: "CairoPlay-Medium";
+    src: url(fonts/Cairo_Play/CairoPlay-Medium.ttf);
+}
+@font-face {
+    font-family: "CairoPlay-ExtraBold";
+    src: url(fonts/Cairo_Play/CairoPlay-ExtraBold.ttf);
+}
+@font-face {
+    font-family: "CairoPlay-ExtraLight";
+    src: url(fonts/Cairo_Play/CairoPlay-ExtraLight.ttf);
+}
+
+
+/* font CinzelDecorative */
+@font-face {
+    font-family: "CinzelDecorative-Regular";
+    src: url(fonts/Cinzel_Decorative/CinzelDecorative-Regular.ttf);
+}
+@font-face {
+    font-family: "CinzelDecorative-Black";
+    src: url(fonts/Cinzel_Decorative/CinzelDecorative-Black.ttf);
+}
+@font-face {
+    font-family: "CinzelDecorative-Bold";
+    src: url(fonts/Cinzel_Decorative/CinzelDecorative-Bold.ttf);
+}
+
+/* font GreatVibes */
+@font-face {
+    font-family: "GreatVibes-Regular";
+    src: url(fonts/Great_Vibes/GreatVibes-Regular.ttf);
+}
